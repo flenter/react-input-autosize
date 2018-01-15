@@ -68,3 +68,4 @@ If your input uses custom font sizes, you will need to provide the custom size t
 ## License
 
 Copyright (c) 2017 Jed Watson. [MIT](LICENSE) License.
+
